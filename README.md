@@ -1,2 +1,2 @@
-# jeanfrancoismas
-Livro Análise Espacial com R
+# Livro Análise Espacial com R
+Jean Francois Mas <jfmas@ciga.unam.mx>
