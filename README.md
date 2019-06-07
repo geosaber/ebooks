@@ -1,5 +1,12 @@
 # Análise Espacial com R
-Mas J-F, Barreiros Horta M., Nogueira de Vasconcelos R. e Barbosa Cambui E.C. , 2019, Análise espacial com R, UEFS Editora, 102 p.
+Mas J-F, Barreiros Horta M., Nogueira de Vasconcelos R. e Barbosa Cambui E.C. , 2019, Análise espacial com R, UEFS Editora, 102 p. ISBN: 978-85-5592-091-2
 
-ISBN: 978-85-5592-091-2
+https://bit.ly/2KpSI7C
+
+R uma plataforma de código aberto para a análise estatística tem sido uma referência na análise estatística durante muitos anos. Durante os últimos anos, foram criados diferentes pacotes de R dirigidos à análise espacial. No entanto, existem poucos livros focados na análise espacial com R, ainda menos em português. Este livro tenta compensar essa falta e destina-se a usuários com conhecimento básico de Sistemas de Informação Geográfica (SIG) que desejam iniciar a gestão e análise de dados espaciais com R. Portanto, não requer nenhum conhecimento prévio deste programa, mas um conhecimento básico do SIG. O livro pretende permitir ao leitor dar os primeiros passos na gestão de R para a análise espacial sem muitos tropeços.
+
+No primeiro capítulo, é explicado como instalar R e RStudio e os principais elementos da interface RStudio são apresentados. No segundo capítulo, é feita uma introdução ao uso básico do R. No terceiro capítulo, apresentamos como os dados espaciais em R estão estruturados utilizando os pacotes sf e raster, os dois principais pacotes que usaremos ao longo deste livro. No capítulo 4, apresentamos algumas maneiras de interagir com dados geográficos entre R através de procedimentos de importação / exportação de dados em formato vetorial ou de imagem (raster), bem como alguns métodos para converter informações entre vetor e raster. Nos capítulos 5 e 6, são apresentadas operações SIG básicas, respectivamente, com dados em formato vetorial e raster. No Capítulo 7, apresentamos algumas análises geoestatísticas que podem ser realizadas com pacotes R. No oitavo capítulo mostramos algumas maneiras de elaborar cartografia. Finalmente, o capítulo 9 apresenta ao leitor as técnicas para fazer R interagir com o sistema de informação geográfica (SIG) de código aberto Q-GIS e a plataforma de modelagem espacial Dinamica EGO.
+
+O livro é um derivado do livro Análisis espacial con R, usa R como un sistema de información geográfica (http://eujournal.org/files/journals/1/books/JeanFrancoisMas.pdf). Tem uma licença Creative Commons Atribuição-Não Comercial-Compartilha Igual e pode ser obtido gratuitamente na página https://bit.ly/2KpSI7C
+
 - Jean Francois Mas <jfmas@ciga.unam.mx>
